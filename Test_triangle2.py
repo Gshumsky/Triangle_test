@@ -17,4 +17,3 @@ def test_float_numbers():
     triangle.area()
     assert triangle.s==1.89, 'area is wrong'
 
-def test_missing_data():
